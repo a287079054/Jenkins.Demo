@@ -104,11 +104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WorkDemo\\Jenkins\\Jenkins.Demo\\JenkinsAPI\\JenkinsAPI.csproj",
+      "projectUniqueName": "F:\\WorkDemo\\Jenkins\\JenkinsAPI\\JenkinsAPI.csproj",
       "projectName": "JenkinsAPI",
-      "projectPath": "F:\\WorkDemo\\Jenkins\\Jenkins.Demo\\JenkinsAPI\\JenkinsAPI.csproj",
+      "projectPath": "F:\\WorkDemo\\Jenkins\\JenkinsAPI\\JenkinsAPI.csproj",
       "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-      "outputPath": "F:\\WorkDemo\\Jenkins\\Jenkins.Demo\\JenkinsAPI\\obj\\",
+      "outputPath": "F:\\WorkDemo\\Jenkins\\JenkinsAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",

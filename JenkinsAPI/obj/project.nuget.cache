@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5MJTSC2HmG9gOxYaBete6fSoOuwbHdsoquGtC/vyxdsHf2zi2deRPchx43enoUKfeXdAhxlwAxjYkLiAEXz1yA==",
+  "dgSpecHash": "AlRa1rd9Hb01cvr/lmqduRzePdcWsrDetUCY82eA00KmHl6E1v8LYXRAmPF2+CW9kEjsHsWlo+p7DlGPhK4/Ow==",
   "success": true,
-  "projectFilePath": "F:\\WorkDemo\\Jenkins\\Jenkins.Demo\\JenkinsAPI\\JenkinsAPI.csproj",
+  "projectFilePath": "F:\\WorkDemo\\Jenkins\\JenkinsAPI\\JenkinsAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\HUAWEI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
